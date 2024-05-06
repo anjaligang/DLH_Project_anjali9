@@ -2,6 +2,11 @@
 
 Click [here](https://youtu.be/wvt74wxUmr8?si=DycmLcN6Hq8_aWlS) to watch the project presentation.
 
+# Final ipynb file
+
+<img width="904" alt="image" src="https://github.com/anjaligang/DLH_Project_anjali9/assets/113314413/04fdfe03-48b3-452f-997f-5fbc96fc5ced">
+
+
 ## Introduction
 
 This paper introduces several convolutional neural network (CNN) models for accurate prediction of cancer types based on gene expression data from The Cancer Genome Atlas (TCGA).
